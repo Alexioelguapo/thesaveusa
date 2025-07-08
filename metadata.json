@@ -1,0 +1,6 @@
+{
+  "name": "TheSaveUSA.com - News Commentary",
+  "description": "A React-based web application for displaying news articles and commentary with an 'America First' perspective, featuring AI-assisted content generation.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
